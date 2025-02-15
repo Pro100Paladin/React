@@ -1,0 +1,11 @@
+
+
+.greeting{
+    color: red;
+}
+
+.Greeting__button{
+    margin: 20px;
+    background-color: aqua;
+    color: black;
+}
