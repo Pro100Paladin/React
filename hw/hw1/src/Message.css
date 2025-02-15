@@ -1,11 +1,17 @@
-.message{
-
+.message {
+    display: grid;
+    justify-content: center;
+    border: 5px double yellowgreen;
+    width: 50ex;
+    margin: 20px;
 }
 
-.message__name{
-
+.message__name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.message__year{
-    
+.message__year {
+    border: 2px solid gold;
+    padding: 5px;
+
 }
