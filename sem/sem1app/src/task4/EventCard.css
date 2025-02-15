@@ -1,0 +1,10 @@
+.EventCard{
+    display: grid;
+    grid-template-rows: 35px 35px;
+    justify-content: center;
+    width: 100ex;
+    margin: 20px;
+    border: 5px double greenyellow;
+    font-family: "Georgia";
+    color: #07f113;
+}
